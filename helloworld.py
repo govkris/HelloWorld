@@ -3,5 +3,9 @@ if hungry=="yes"
  print("eat Samosa")
  print("eat fries")
 else
- print("do homework")
-print("Test complete")
+  thirst=input("are you thirsty")
+  if thirst=='yes'
+   print("Drink water")
+   print("drink Pepsi")
+   print("drink Soda")
+	
