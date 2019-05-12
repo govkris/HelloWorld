@@ -6,4 +6,6 @@ else
   if thirst=='yes'
    print("Drink water")
    print("drink Pepsi")
+  if thirst="no"
+	print(" Cool")
 	
