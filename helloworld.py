@@ -7,5 +7,10 @@ else
   if thirst=='yes'
    print("Drink water")
    print("drink Pepsi")
+<<<<<<< HEAD
    print("drink Soda")
+=======
+  if thirst="no"
+	print(" Cool")
+>>>>>>> branch2
 	
